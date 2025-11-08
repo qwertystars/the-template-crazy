@@ -1,0 +1,3 @@
+"""
+FlexiBase application package.
+"""
